@@ -7,9 +7,9 @@
 
 <!-- Apresentação -->
 <p>
-  Olá 👋, sou Cristhian Kauan! Um estudante apaixonado por Ciência de Dados da UESB.
+  Olá 👋, sou Cristhian Kauan! Um estudante apaixonado por programação.
 
-  - 🌱 Atualmente estou estudando Ciência de Dados e Ciência da Computação na UESB <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou cursando Ciência da Computação na UESB <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com IA e Aprendizado de Máquina.
 </p>
