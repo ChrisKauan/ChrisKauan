@@ -24,8 +24,10 @@
 </details>
 
 <!-- Estatísticas do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=OuranN&show_icons=true&theme=radical height:180)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OuranN&show_icons=true&theme=radical height:180)](https://github.com/OuranN/github-readme-stats )
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OuranN&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuranN&show_icons=true&theme=radical" alt="Linguagens mais usadas" height="180">
+</p>
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -49,4 +51,3 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
-  
