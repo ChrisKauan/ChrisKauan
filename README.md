@@ -35,7 +35,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="[https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7](https://media1.tenor.com/m/TJdQgWPej6wAAAAC/dead-dead-demon%27s-dededede-destruction-dededede.gif)" alt="Imagem">
 </p>
 
 ## 🔥 Habilidades
