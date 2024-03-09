@@ -28,10 +28,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Análise exploratória de dados](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - Painel Interativo COVID-19](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Consulta e análise de dados com AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Sistema de cadastro e consulta](https://github.com/VariableBee/Cartorio)
+- ...
+- ...
+- ...
+- ...
 
 <!-- GIF -->
 <p align="left">
