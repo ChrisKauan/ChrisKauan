@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, eu sou Cristhian Kauan! 👋
 
-<!--
-**OuranN/OuranN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub!
 
-Here are some ideas to get you started:
+## 🔭 Atualmente estou trabalhando em
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- projeto1.
+- projeto2.
+
+## 🌱 Atualmente estou aprendendo
+
+- [Tecnologia 1]
+- [Tecnologia 2]
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)
+
