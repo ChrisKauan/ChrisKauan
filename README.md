@@ -35,7 +35,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://media1.tenor.com/m/P6truo-suvkAAAAd/dead-dead-demons-dededede-destruction-maeus.gif" alt="Imagem">
+  <img align="center" src="https://media1.tenor.com/m/TJdQgWPej6wAAAAC/dead-dead-demon%27s-dededede-destruction-dededede.gif" alt="Imagem">
 </p>
 
 ## 🔥 Habilidades
