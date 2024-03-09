@@ -9,22 +9,22 @@
 <p>
   Olá 👋, sou Cristhian Kauan! Um estudante apaixonado por programação.
 
-  - 🌱 Atualmente estou cursando Ciência da Computação na UESB <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou cursando Ciência da Computação na UESB
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com IA e Aprendizado de Máquina.
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 21 anos, atualmente moro no Brasil. Tenho fluência em inglês e tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Aprendizado de Máquina. Também sou criador de conteúdo no YouTube desde 2018, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, marketing, capacidade analítica, gestão de comunidade e mídias sociais.
+  - 💬 Tenho 21 anos, atualmente moro no Brasil. Tenho experiência com Java, Python, HTML5, CSS3. 
 
   - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
 </details>
 
 <!-- Estatísticas do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=OuranN&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
