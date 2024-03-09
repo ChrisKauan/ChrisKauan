@@ -1,7 +1,7 @@
 <!-- Título -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
   </ul>
 </div>
 
@@ -37,7 +37,7 @@
 - ...
 
 <!-- GIF -->
-<p align="left">
+<p align="center">
   <img align="center" src="https://media1.tenor.com/m/TJdQgWPej6wAAAAC/dead-dead-demon%27s-dededede-destruction-dededede.gif" alt="Imagem">
 </p>
 
