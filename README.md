@@ -24,8 +24,8 @@
 </details>
 
 <!-- Estatísticas do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=OuranN&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OuranN&show_icons=true&theme=radical)](https://github.com/OuranN/github-readme-stats )
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=OuranN&show_icons=true&theme=radical height:180)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OuranN&show_icons=true&theme=radical height:180)](https://github.com/OuranN/github-readme-stats )
 
 <!-- Portfolio -->
 ## Portfolio:
